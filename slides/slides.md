@@ -32,24 +32,19 @@ Build, run, ship,  any app,  anywhere. ![docker-logo](https://raw.githubusercont
 ---
 
 ## Control Groups (Cgroups)
+* Verwaltung und Überwachung von Ressourcen:
 
-Verwaltung und Überwachung von Ressourcen:
-
-**Beispiele:**
 * Ram
 
 * CPU
 
 * Netzwerk
 
-* I/O Festplatte 
+* I/O 
 
 ---
 
 ## Namespace 
-
-**Beispiele:**
-
 * Verwaltung der Sichtbarkeit von Prozessen:
 
 * pid
