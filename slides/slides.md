@@ -3,6 +3,10 @@
 Build, run, ship,  any app,  anywhere. ![docker-logo](https://raw.githubusercontent.com/Kawohl/presentations/master/docker/reveal.js/presentations/johnspresentation/rsz_1docker-small.png)
 ---
 
+ ![ya'llmeme ](https://github.com/Kawohl/revealjs-docker/raw/master/docker/images/y'all.jpg)
+---
+
+
 ## __Überblick__
 
 * Was sind eigentlich Linux Container?
@@ -155,6 +159,11 @@ docker pull ubuntu:16.04
 
 ## __Nutzungsszenarien:__ 
 
+<p>
+  <br>
+  <br>
+</p>
+
 * Entwicklungsumgebung
  
 * Effektive Nutzung von Ressourcen
@@ -166,6 +175,11 @@ docker pull ubuntu:16.04
 ---
 
 ## __Ausblick:__
+
+<p>
+  <br>
+  <br>
+</p>
 
 * Große Verbreitung 
 
@@ -182,6 +196,10 @@ docker pull ubuntu:16.04
 ---
 
 ## __Zusammenfassung__
+<p>
+  <br>
+  <br>
+</p>
 
 * relativ "Einfaches" Interface
 
@@ -197,6 +215,9 @@ docker pull ubuntu:16.04
 
 Den Sourcecode zu dieser Präsentation gibt es hier: 
 https://github.com/Kawohl/presentations
+<p>
+  <br>
+</p>
 
 Das docker image: 
 ```
