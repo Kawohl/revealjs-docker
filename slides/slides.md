@@ -3,7 +3,7 @@
 Build, run, ship,  any app,  anywhere. ![docker-logo](https://raw.githubusercontent.com/Kawohl/presentations/master/docker/reveal.js/presentations/johnspresentation/rsz_1docker-small.png)
 ---
 
-## Überblick
+## __Überblick__
 
 * Was sind eigentlich Linux Container?
 
@@ -17,7 +17,7 @@ Build, run, ship,  any app,  anywhere. ![docker-logo](https://raw.githubusercont
 
 ---
 
-## Linux Container 
+## __Linux Container__ 
 
 * Virtualisierung mit einem Kernel
 
@@ -31,7 +31,7 @@ Build, run, ship,  any app,  anywhere. ![docker-logo](https://raw.githubusercont
 
 ---
 
-## Control Groups (Cgroups)
+## __Control Groups (Cgroups)__
 * Verwaltung und Überwachung von Ressourcen:
 
 * Ram
@@ -44,7 +44,7 @@ Build, run, ship,  any app,  anywhere. ![docker-logo](https://raw.githubusercont
 
 ---
 
-## Namespace 
+## __Namespace__ 
 * Verwaltung der Sichtbarkeit von Prozessen:
 
 * pid
@@ -57,16 +57,23 @@ Build, run, ship,  any app,  anywhere. ![docker-logo](https://raw.githubusercont
 
 ---
 
-## Warum Container?
+## __Warum Container?__
 
-* Effiziente Ressourcen Nutzung
+<p>
+  <br>
+  <br>
+  <br>
+</p>
 
-* Prozessisolierung
+
+* ### Effiziente Ressourcen Nutzung
+
+* ### Prozessisolierung
 
 
 ---
 
-## Docker vs. Virtuelle Maschinen 
+## __Docker vs. Virtuelle Maschinen__ 
 ![container-vm-comparison](https://cloud.githubusercontent.com/assets/12275313/23125280/3fcb2ab0-f771-11e6-9d13-e2dd6fb55e0f.png)
 ---
 
@@ -76,7 +83,7 @@ Build, run, ship,  any app,  anywhere. ![docker-logo](https://raw.githubusercont
 ---
 
 
-## Warum Docker
+## __Warum Docker__
 
 * Erweitert Linux Container u.a. um Portabilität
 
@@ -119,13 +126,13 @@ CMD ["/usr/sbin/sshd", "-D"]
 ---
 
 
-#### docker Ökosystem 
+#### __docker Ökosystem__ 
 ![overview](https://raw.githubusercontent.com/Kawohl/presentations/20b535b991dc08c91a03c9b5bed33b43d3ecd4be/docker/reveal.js/presentations/johnspresentation/dockerUsers.png)
 
 ---
 
 
-## Docker in meinem Arbeitsalltag
+## __Docker in meinem Arbeitsalltag__
 * pakete testen: z.b. : 
 ```
 docker run -ti centos:7
@@ -146,7 +153,7 @@ docker pull ubuntu:16.04
 
 ---
 
-## Nutzungsszenarien: 
+## __Nutzungsszenarien:__ 
 
 * Entwicklungsumgebung
  
@@ -158,19 +165,23 @@ docker pull ubuntu:16.04
 
 ---
 
-## Ausblick:
+## __Ausblick:__
 
 * Große Verbreitung 
+
 * Immer mehr tools zur Vereinfachung des Setups
+
 * "Enterprise" Container
+
 * Scalierung 
+
 * Deployment on Demand
 
 
 
 ---
 
-## Zusammenfassung
+## __Zusammenfassung__
 
 * relativ "Einfaches" Interface
 
@@ -191,19 +202,37 @@ Das docker image:
 ```
 docker pull jonaka/dockerpres
 ```
+
+---
+
+<p>
+  <br>
+  <br>
+  <br>
+</p>
+
+#Fragen? 
+
+
+
+
 ---
 
 
 ######Links:
 
 * https://www.docker.com/
+
 * https://traefik.io/
+
 * https://kubernetes.io/
+
 * https://twitter.com/JonathanKawohl
+
 * https://github.com/Kawohl/
 
 
----
+
 
 
 
