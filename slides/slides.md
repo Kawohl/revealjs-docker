@@ -18,7 +18,7 @@ Build, run, ship,  any app,  anywhere. ![docker-logo](https://raw.githubusercont
 
 * Docker als automatisierte Testumgebung aufgesetzt.
 
-* Jetzt: Docker zum schnellen reproduzieren von Support Cases.
+* Docker zum schnellen reproduzieren von Support Cases.
 
 <p>
 <div id="myLogo" style="background: url(https://github.com/Kawohl/revealjs-docker/raw/master/images/rsz_11john.jpg);
@@ -29,7 +29,9 @@ Build, run, ship,  any app,  anywhere. ![docker-logo](https://raw.githubusercont
                         width: 200px;
                         height: 200px;"></div>
 </p>
-
+<p>
+  <br>
+</p>
 ---
  ![ya'llmeme ](https://github.com/Kawohl/revealjs-docker/raw/master/docker/images/y'all.jpg)
 ---
