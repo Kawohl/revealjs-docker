@@ -20,6 +20,14 @@ Build, run, ship,  any app,  anywhere. ![docker-logo](https://raw.githubusercont
 
 * Jetzt: Docker zum schnellen reproduzieren von Support Cases.
 
+<p>
+<div id="myLogo" style="background: url(https://pbs.twimg.com/profile_images/738717177583374337/PgppvtS6.jpg);
+                        position: absolute;
+                        right: 100px;
+                        width: 200px;
+                        height: 200px;"></div>
+</p>
+
 ---
  ![ya'llmeme ](https://github.com/Kawohl/revealjs-docker/raw/master/docker/images/y'all.jpg)
 ---
