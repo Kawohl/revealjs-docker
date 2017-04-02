@@ -1,13 +1,35 @@
 <section data-state="no-title-footer">
-## Docker  
+## __Docker__  
 Build, run, ship,  any app,  anywhere. ![docker-logo](https://raw.githubusercontent.com/Kawohl/presentations/master/docker/reveal.js/presentations/johnspresentation/rsz_1docker-small.png)
----
 
+---
+## __Jonathan Kawohl__ 
+
+<p>
+  <br>
+</p>
+
+
+
+
+* Momentan tätig im second und third level support.
+
+* Vorher: Marketing und Community Management.
+
+* Docker als automatisierte Testumgebung aufgesetzt.
+
+* Jetzt: Docker zum schnellen reproduzieren von Support Cases.
+
+---
  ![ya'llmeme ](https://github.com/Kawohl/revealjs-docker/raw/master/docker/images/y'all.jpg)
 ---
 
 
 ## __Überblick__
+
+<p>
+  <br>
+</p>
 
 * Was sind eigentlich Linux Container?
 
@@ -23,6 +45,10 @@ Build, run, ship,  any app,  anywhere. ![docker-logo](https://raw.githubusercont
 
 ## __Linux Container__ 
 
+<p>
+  <br>
+</p>
+
 * Virtualisierung mit einem Kernel
 
 * Prozesse durch Namespaces getrennt
@@ -31,11 +57,15 @@ Build, run, ship,  any app,  anywhere. ![docker-logo](https://raw.githubusercont
 
 * Beispiele für Linux Container: docker, LXC, LXD, rkt
 
-* Alle Libs und Abhängikeiten in einem "Paket" 
 
 ---
 
 ## __Control Groups (Cgroups)__
+
+<p>
+  <br>
+</p>
+
 * Verwaltung und Überwachung von Ressourcen:
 
 * Ram
@@ -49,6 +79,10 @@ Build, run, ship,  any app,  anywhere. ![docker-logo](https://raw.githubusercont
 ---
 
 ## __Namespace__ 
+<p>
+  <br>
+</p>
+
 * Verwaltung der Sichtbarkeit von Prozessen:
 
 * pid
@@ -87,15 +121,15 @@ Build, run, ship,  any app,  anywhere. ![docker-logo](https://raw.githubusercont
 ---
 
 
-## __Warum Docker__
+## __Warum Docker__ ? 
 
 * Erweitert Linux Container u.a. um Portabilität
 
-* Industriestandard 
+* Alle Libs und Abhängikeiten in einem "Paket" 
 
 * Vielzahl an tools und implementierungen 
 
-* integriert in Google Cloud Platform, Amazon Web Services, azure container-services u.v.m. 
+* integriert in Google Cloud Platform, Amazon Web Services etc
 
 * Sehr einfaches interface design 
 
@@ -105,6 +139,7 @@ Build, run, ship,  any app,  anywhere. ![docker-logo](https://raw.githubusercont
 
 ---
 
+#### Beispiel für den code für einen ssh server
 <p>
   <br>
   <br>
@@ -131,6 +166,7 @@ CMD ["/usr/sbin/sshd", "-D"]
 
 
 #### __docker Ökosystem__ 
+
 ![overview](https://raw.githubusercontent.com/Kawohl/presentations/20b535b991dc08c91a03c9b5bed33b43d3ecd4be/docker/reveal.js/presentations/johnspresentation/dockerUsers.png)
 
 ---
@@ -138,6 +174,7 @@ CMD ["/usr/sbin/sshd", "-D"]
 
 ## __Docker in meinem Arbeitsalltag__
 * pakete testen: z.b. : 
+
 ```
 docker run -ti centos:7
 ```
@@ -187,7 +224,7 @@ docker pull ubuntu:16.04
 
 * "Enterprise" Container
 
-* Scalierung 
+* Auto-Skalierung 
 
 * Deployment on Demand
 
@@ -214,8 +251,7 @@ docker pull ubuntu:16.04
 ---
 
 Den Sourcecode zu dieser Präsentation gibt es hier: 
-https://github.com/Kawohl/presentations
-<p>
+https://github.com/Kawohl/revealjs-docker
   <br>
 </p>
 
@@ -240,7 +276,7 @@ docker pull jonaka/dockerpres
 ---
 
 
-######Links:
+##__Links:__
 
 * https://www.docker.com/
 
