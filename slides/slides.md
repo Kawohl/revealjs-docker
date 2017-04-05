@@ -266,7 +266,7 @@ docker pull jonaka/dockerpres
 </p>
 
 
-Diese Präsentation wurde mit Hilfe des HTML5 Frameworks: reveal.js und der Kernelversion 4.8.0-41 gehalten.
+Diese Präsentation wurde mit Hilfe des HTML5 Frameworks: reveal.js und der Kernelversion 4.8.0-45 gehalten.
 
 
 ---
