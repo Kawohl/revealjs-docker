@@ -10,9 +10,7 @@ Build, run, ship,  any app,  anywhere. ![docker-logo](https://raw.githubusercont
 </p>
 
 
-
-
-* Momentan tätig im second und third level support.
+* Momentan tätig im second/third level support bei ownCloud
 
 * Vorher: Marketing und Community Management.
 
@@ -20,20 +18,8 @@ Build, run, ship,  any app,  anywhere. ![docker-logo](https://raw.githubusercont
 
 * Docker zum schnellen reproduzieren von Support Cases.
 
-<p>
-<div id="myLogo" style="background: url(https://github.com/Kawohl/revealjs-docker/raw/master/images/rsz_11john.jpg);
-                        position: absolute;
-                        background-repeat:no-repeat;
-                        bottom 200px;
-                        right: 200px;
-                        width: 200px;
-                        height: 200px;"></div>
-</p>
-<p>
-  <br>
-</p>
 ---
- ![ya'llmeme ](https://github.com/Kawohl/revealjs-docker/raw/master/docker/images/y'all.jpg)
+ ![ya'llmeme ](https://github.com/Kawohl/revealjs-docker/raw/master/images/memebetter.com-20170402170518.jpg)
 ---
 
 
@@ -147,6 +133,8 @@ Build, run, ship,  any app,  anywhere. ![docker-logo](https://raw.githubusercont
 
 * open Source
 
+* update des Host Kernels -> update für alle container!
+
 
 
 ---
@@ -250,7 +238,7 @@ docker pull ubuntu:16.04
   <br>
 </p>
 
-* relativ "Einfaches" Interface
+* relativ "einfaches" Interface
 
 * "wfm": "Bei mir läuft das aber" ist kein Problem mehr.
 
@@ -271,6 +259,15 @@ Das docker image:
 ```
 docker pull jonaka/dockerpres
 ```
+<p>
+  <br>
+  <br>
+  <br>
+</p>
+
+
+Diese Präsentation wurde mit Hilfe des HTML5 Frameworks: reveal.js und der Kernelversion 4.8.0-41 gehalten.
+
 
 ---
 
